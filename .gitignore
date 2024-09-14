@@ -40,4 +40,6 @@ ENV/
 
 # Environment variables file
 .env
+.idea/
+*.pdf
 
