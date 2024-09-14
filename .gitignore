@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Hidden MacOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook metadata
+*.ipynb_metadata
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.json
+*.hdf5
+
+# Logs and outputs
+*.log
+*.out
+*.txt
+
+# Cache and temporary files
+*.temp
+*.cache
+*.tmp
+
+# Environment variables file
+.env
+
